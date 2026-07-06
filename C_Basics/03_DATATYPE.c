@@ -7,8 +7,8 @@ int main (){
     
 
     printf("number %d\n",number);
-    printf("decimal %2f\n",decimal);
-    printf("pi %10f\n",pi);
+    printf("decimal %.2f\n",decimal);
+    printf("pi %.10f\n",pi);
     printf ("letter %c\n",letter);
 
 
